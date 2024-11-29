@@ -1,0 +1,5 @@
+streamlit #for user interface
+google-generativeai #for the google gemini api
+python-dotenv #gets the api keys by accessing the system
+pdf2image #converts the pdf into an image where the gemini can read from
+pillow
